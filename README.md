@@ -42,7 +42,10 @@
          ZHHomeView.shareInstance.frame = collView.bounds
 
     }
+
  
+## 提醒
+本框架纯ARC，兼容的系统>=iOS8.0,编写语言Swift
  
 ## Dome运行效果图:
 
