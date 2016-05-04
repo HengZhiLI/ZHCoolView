@@ -15,11 +15,9 @@
 ## 加载ZHCoolView的代码
  
  /** 在viewDidLoad()中添加以下代码 */
- 
- 
- override func viewDidLoad()
- {
- 
+
+       override func viewDidLoad()
+    {
         super.viewDidLoad()
         //设置图片浏览器每行显示几列数据
         ZHHomeView.shareInstance.column = 3
@@ -51,5 +49,18 @@
 
 
   ![image](https://github.com/HengZhiLI/ZHCoolView/blob/master/Dome/01.gif  ) 
+ 
+  
+## 期待
+
+如果在使用过程中遇到BUG，希望你能Issues我，谢谢（或者尝试下载最新的框架代码看看BUG修复没有）
+如果在使用过程中发现功能不够用，希望你能Issues我，我非常想为这个框架增加更多好用的功能，谢谢
+如果你想为ZHCollView输出代码，请拼命Pull Requests我
+      
+   
+#  QQ:564697292
+#  不像程序员的恒仔     
+#  😄😄😄 
+      
       
       
