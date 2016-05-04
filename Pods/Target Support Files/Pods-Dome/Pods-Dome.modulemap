@@ -1,0 +1,6 @@
+framework module Pods_Dome {
+  umbrella header "Pods-Dome-umbrella.h"
+
+  export *
+  module * { export * }
+}
